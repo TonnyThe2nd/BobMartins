@@ -135,19 +135,3 @@ body {
     color: #009688;
 }
 
-.button{
-    border-radius: 8px;
-    background-color: #009688;
-    font-size: 3vh;
-    color: white;
-    padding: 1vh;
-    border: 1px solid black;
-}
-.button a{
-    text-decoration: none;
-    color: white;
-}
-.button:hover{
-    background-color: #016d63;
-    transition: .5s;
-}
