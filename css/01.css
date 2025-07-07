@@ -115,7 +115,7 @@ body {
 }
 
 .bg-image2 {
-    background-image: url('./images/9f7a5f29d0f36cbb5dc65f39f131b2eca07729d3-3000x1852.jpg');
+    background-image: url('images/9f7a5f29d0f36cbb5dc65f39f131b2eca07729d3-3000x1852.jpg');
     background-size: cover;
     background-position: center;
     position: relative;
